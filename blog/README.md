@@ -7,3 +7,4 @@ https://r.jina.ai/parallel.ai/blog/task-group-api
 https://r.jina.ai/parallel.ai/blog/source-policy
 https://r.jina.ai/parallel.ai/blog/search-mcp-server
 https://r.jina.ai/parallel.ai/blog/parallel-search-mcp-in-devin
+https://r.jina.ai/parallel.ai/blog/search-api-benchmark
