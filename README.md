@@ -1,5 +1,7 @@
+Scraped from [urls.md](urls.md)
+
+Context: [![](https://badge.forgithub.com/janwilmake/parallel-website)](https://uithub.com/janwilmake/parallel-website)
+
 Missing:
 
-- Privacy: https://parallel.ai/privacy-policy
-- Terms: https://parallel.ai/terms-of-service
 - Careers: https://jobs.ashbyhq.com/parallel

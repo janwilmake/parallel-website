@@ -1,10 +1,11 @@
-import { readFile, writeFile } from "fs/promises";
-import { basename } from "path";
+import { readFile, writeFile, mkdir } from "fs/promises";
+import { existsSync } from "fs";
+import { dirname } from "path";
 
 async function fetchAndSaveUrls() {
   try {
     // Read the README.md file
-    const readmeContent = await readFile("README.md", "utf-8");
+    const readmeContent = await readFile("urls.md", "utf-8");
 
     // Split into lines and filter out empty lines
     const urls = readmeContent
@@ -34,8 +35,15 @@ async function fetchAndSaveUrls() {
 
         // Extract the last segment of the pathname
         const urlObj = new URL(url);
-        const lastSegment = basename(urlObj.pathname) || "index";
+        const lastSegment = urlObj.pathname.slice(1) || "index";
         const filename = `${lastSegment}.md`;
+
+        // Ensure the directory exists
+        const dir = dirname(filename);
+        if (dir !== "." && !existsSync(dir)) {
+          await mkdir(dir, { recursive: true });
+          console.log(`Created directory: ${dir}`);
+        }
 
         // Save to file
         await writeFile(filename, content, "utf-8");

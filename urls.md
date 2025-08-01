@@ -1,0 +1,12 @@
+https://parallel.ai/blog/parallel-task-api
+https://parallel.ai/blog/introducing-basis-with-calibrated-confidences
+https://parallel.ai/blog/chat-api
+https://parallel.ai/blog/parallel-search-api
+https://parallel.ai/blog/deep-research
+https://parallel.ai/blog/task-group-api
+https://parallel.ai/blog/source-policy
+https://parallel.ai/blog/search-mcp-server
+https://parallel.ai/blog/parallel-search-mcp-in-devin
+https://parallel.ai/blog/search-api-benchmark
+https://parallel.ai/privacy-policy
+https://parallel.ai/terms-of-service
