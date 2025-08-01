@@ -21,7 +21,7 @@ async function fetchAndSaveUrls() {
         console.log(`Fetching: ${url}`);
 
         // Fetch the URL
-        const response = await fetch(url);
+        const response = await fetch("https://r.jina.ai/" + url);
 
         if (!response.ok) {
           console.error(

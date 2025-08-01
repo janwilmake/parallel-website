@@ -1,6 +1,6 @@
 Title: Introducing the Parallel Task API
 
-URL Source: http://parallel.ai/blog/parallel-task-api
+URL Source: https://parallel.ai/blog/parallel-task-api
 
 Published Time: 2025-04-24T21:32:51Z
 
@@ -11,7 +11,7 @@ Tags:Product Release,Benchmarks
 
 Reading time:4 min
 
-At [Parallel Web Systems](https://parallel.ai/)[Parallel Web Systems]($https://parallel.ai/), we’ve been busy [building infrastructure for a web built for AIs](http://parallel.ai/about)[building infrastructure for a web built for AIs]($/about). Today, we’re excited to announce our first product: the Parallel Task API.
+At [Parallel Web Systems](https://parallel.ai/)[Parallel Web Systems]($https://parallel.ai/), we’ve been busy [building infrastructure for a web built for AIs](https://parallel.ai/about)[building infrastructure for a web built for AIs]($/about). Today, we’re excited to announce our first product: the Parallel Task API.
 
 The [Parallel Task API](https://docs.parallel.ai/)[Parallel Task API]($https://docs.parallel.ai) offers developers and enterprises a robust, reliable, and highly scalable solution for obtaining data, research findings, and insights from the internet. It has been built and optimized for repeated workflows over information on the open web that demand scalability and quality. Instead of engineering bespoke and complex AI+human workflows, users simply declare what information and insights they need. Our API seamlessly orchestrates the querying, ranking, retrieval, reasoning, validation, and synthesis to deliver this information as structured outputs.
 
@@ -31,7 +31,7 @@ While [SimpleQA](https://openai.com/index/introducing-simpleqa/)[SimpleQA]($http
 
 Today, Parallel powers production-grade workflows across a range of domains. As a SOC-II Type 2 certified platform, we're trusted by startups and enterprises alike to get structured insights from the web reliably and at scale. Our API serves diverse use cases across domains: insurance underwriters evaluating business risks, sales teams enriching CRM data with company intelligence, financial analysts conducting due diligence or sourcing, and professional service firms streamlining manual research workflows. The Task API is available today - we are excited to discover and serve use cases beyond our imagination.
 
-![Image 1: Illustration demonstrating deep research API concepts, web search capabilities, or AI agent integration features](http://parallel.ai/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F5hzduz3y%2Fproduction%2F92663b0f1f8fa316d21743f04d7c32d9b7404d00-2576x1712.png&w=3840&q=75)
+![Image 1: Illustration demonstrating deep research API concepts, web search capabilities, or AI agent integration features](https://parallel.ai/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F5hzduz3y%2Fproduction%2F92663b0f1f8fa316d21743f04d7c32d9b7404d00-2576x1712.png&w=3840&q=75)
 
 ![](https://cdn.sanity.io/images/5hzduz3y/production/92663b0f1f8fa316d21743f04d7c32d9b7404d00-2576x1712.png)
 
@@ -56,7 +56,7 @@ To start building on our developer platform, [request access](https://parallel.a
 
 ****Example questions from WISER-Atomic****
 
-![Image 2: Parallel avatar](http://parallel.ai/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F5hzduz3y%2Fproduction%2F9a2c0f2e9634a95512da83f8354aef9d5bf400aa-128x128.png&w=64&q=75)
+![Image 2: Parallel avatar](https://parallel.ai/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F5hzduz3y%2Fproduction%2F9a2c0f2e9634a95512da83f8354aef9d5bf400aa-128x128.png&w=64&q=75)
 
 By Parallel
 

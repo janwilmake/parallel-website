@@ -10,3 +10,4 @@ https://parallel.ai/blog/parallel-search-mcp-in-devin
 https://parallel.ai/blog/search-api-benchmark
 https://parallel.ai/privacy-policy
 https://parallel.ai/terms-of-service
+https://parallel.ai/about

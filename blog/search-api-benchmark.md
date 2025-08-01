@@ -1,6 +1,6 @@
 Title: A state-of-the-art search API purpose-built for agents
 
-URL Source: http://parallel.ai/blog/search-api-benchmark
+URL Source: https://parallel.ai/blog/search-api-benchmark
 
 Published Time: 2025-07-31T22:14:17Z
 

@@ -1,6 +1,6 @@
 Title: Introducing Basis with Calibrated Confidences
 
-URL Source: http://parallel.ai/blog/introducing-basis-with-calibrated-confidences
+URL Source: https://parallel.ai/blog/introducing-basis-with-calibrated-confidences
 
 Published Time: 2025-05-16T20:26:10Z
 
@@ -19,7 +19,7 @@ Basis is an automatically included add-on to our Core, Pro, and Ultra processors
 
 They allow you to identify instances where AI web research may yield unreliable results, enabling targeted human-in-the-loop workflows that efficiently focus human attention only where it's most needed. This strategic approach drastically reduces manual review hours while achieving significantly higher accuracy in hybrid human/AI workflows compared to either AI-only or human-only alternatives.
 
-![Image 1: Confidence example as a competitor analysis task in Platform UI](http://parallel.ai/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F5hzduz3y%2Fproduction%2F0a5bf3b45a7c6fd1d26232847f72f6b182ae50b8-1280x852.png&w=3840&q=75)
+![Image 1: Confidence example as a competitor analysis task in Platform UI](https://parallel.ai/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F5hzduz3y%2Fproduction%2F0a5bf3b45a7c6fd1d26232847f72f6b182ae50b8-1280x852.png&w=3840&q=75)
 
 ![Confidence example as a competitor analysis task in Platform UI](https://cdn.sanity.io/images/5hzduz3y/production/0a5bf3b45a7c6fd1d26232847f72f6b182ae50b8-1280x852.png)
 
@@ -90,7 +90,7 @@ Find the SEC 10-K filing of the company as of January 2025 and the list of stock
 
 ****Additional Data: ****
 
-![Image 2: Parallel avatar](http://parallel.ai/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F5hzduz3y%2Fproduction%2F9a2c0f2e9634a95512da83f8354aef9d5bf400aa-128x128.png&w=64&q=75)
+![Image 2: Parallel avatar](https://parallel.ai/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F5hzduz3y%2Fproduction%2F9a2c0f2e9634a95512da83f8354aef9d5bf400aa-128x128.png&w=64&q=75)
 
 By Parallel
 
